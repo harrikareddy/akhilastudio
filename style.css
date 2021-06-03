@@ -617,7 +617,7 @@ footer span a:hover{
         margin-bottom: 35px;
     }
     .location .location-content .map{
-      width:calc(50% - 30px);
+      width:calc(100% - 10px);
       margin: 10px;
     }
 }
@@ -638,6 +638,7 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
+  
 }
 
 @media (max-width: 500px) {
