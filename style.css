@@ -677,11 +677,5 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-      .navbar.logo,
-    .navbar.sticky .logo {
-        margin-left: 0px;
-    }
-    .navbar.sticky .logo span{
-      margin-left: 0px;
-    }
+   
 }
